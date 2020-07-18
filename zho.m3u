@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV中国中央电视台-1 综合
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV中国中央电视台-10 科教
-http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="",CCTV中国中央电视台-11 戏曲
-http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="",CCTV中国中央电视台-12 社会与法制
-http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻
-http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
-http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="Music",CCTV中国中央电视台-15 音乐
-http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="",CCTV中国中央电视台-2 财经
 http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",CCTV中国中央电视台-3 综艺
@@ -31,6 +19,18 @@ http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary",CCTV中国中央电视台-9 纪录
 http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV中国中央电视台-10 科教
+http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="",CCTV中国中央电视台-11 戏曲
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="",CCTV中国中央电视台-12 社会与法制
+http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV中国中央电视台-13 新闻
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿
+http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="Music",CCTV中国中央电视台-15 音乐
+http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="",安徽卫视高清
 http://125.210.152.10:8060/live/AHWSHD_H265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",安徽小说评书广播
@@ -239,9 +239,5 @@ http://218.22.251.12:8001/tslslive/wT9aUpL/hls/live_sd.m3u8
 http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="Kids",黑莓动画
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="Kids",黑莓动画 (Backup)
-http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies",黑莓电影 (Backup)
-http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
