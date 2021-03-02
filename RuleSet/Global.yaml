@@ -376,6 +376,7 @@ payload:
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,time.com
   - DOMAIN-SUFFIX,tineye.com
   - DOMAIN-SUFFIX,tiny.cc
