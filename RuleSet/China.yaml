@@ -338,6 +338,8 @@ payload:
   - DOMAIN-SUFFIX,zhihuishu.com
   - DOMAIN-SUFFIX,zhimg.com
   - DOMAIN-SUFFIX,zhuihd.com
+  - DOMAIN-SUFFIX,gazellegames.net
 
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
+
