@@ -348,3 +348,4 @@ payload:
   - DOMAIN,checkport.synology.com
   - DOMAIN,ddns.synology.com
   - DOMAIN,account.synology.com
+  - DOMAIN,checkip.dyndns.org
