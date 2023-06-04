@@ -514,6 +514,8 @@ payload:
   - DOMAIN-SUFFIX,smartmailcloud.com
   - DOMAIN-SUFFIX,weebly.com
   - DOMAIN-SUFFIX,twitter.jp
+  #蜜柑
+  - DOMAIN-SUFFIX,mikanani.me
 
   # (Region-Restricted Access Denied)
   # ---(Apple)---
